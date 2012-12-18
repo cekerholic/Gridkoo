@@ -48,6 +48,7 @@ CSS Output:
 	
 #### The Grid Column
 Use `columns` mixin to set the width of an element.
+
 Example:
 
 	.element {
@@ -83,6 +84,7 @@ CSS Output:
 	}
 
 Then if your element is in the last columns, use the `omega` mixin.
+
 Example:
 	
 	.element {
