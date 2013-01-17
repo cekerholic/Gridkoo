@@ -5,6 +5,17 @@
 @import "compass/utilities/general/float";
 @import "compass/layout/grid-background";
 
+
+// Default Variable
+// ============================================
+
+$total-cols             : 12    !default;
+$col-width              : 60px  !default;
+$gutter-width           : 20px  !default;
+$side-gutter-width      : 0     !default;
+$show-grid-backgrounds  : true  !default;
+
+
 // Function
 
 @function columns-width(
