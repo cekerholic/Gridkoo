@@ -102,5 +102,7 @@ CSS Output:
 	}
 
 ### Changelog
+* 	1.0.1
+	Adding default variables
 * 	1.0.0
 	Initial release
