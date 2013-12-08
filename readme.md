@@ -1,5 +1,5 @@
 # Gridkoo - A simple SCSS/Compass Grid plugin
-This is a simple SCSS plugin to easily create grid system in your project.
+THIS PROJECT IS NOT MAINTAINED ANYMORE! This is a simple SCSS plugin to easily create grid system in your project.
 
 ## Usage
 
